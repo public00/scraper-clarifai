@@ -1,4 +1,4 @@
-Create database with sql command. MSSQL
+Create table with sql command. MSSQL
 -------------------------------------------------------------------------------------------
 
 USE [PropertyDb]
